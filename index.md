@@ -5,6 +5,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="https://octodex.github.com/images/yaktocat.png" width="400" height="400">
 
 ```
 $ git init
